@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis-and-Brand-Perception-Mapping-of-Tech-Giants
+# Twitter-Sentiment-Analysis-and-Brand-Perception-TESLA 
 ## Overview
 This project employs Natural Language Processing (NLP) techniques to analyze Twitter data associated with major tech giants, including Apple, Microsoft, Amazon, and Meta. By performing sentiment analysis, the project aims to map the brand perception of these companies on Twitter, providing valuable insights into public sentiment.
 
